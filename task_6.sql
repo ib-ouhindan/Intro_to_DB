@@ -1,4 +1,3 @@
--- Insert multiple rows into the customers table in the alx_book_store database
 INSERT INTO customer VALUES
 (2, 'Blessing Malik', 'bmalik@sandtech.com', '124 Happiness Ave.'),
 (3, 'Obed Ehoneah', 'eobed@sandtech.com', '125 Happiness Ave.'),
